@@ -1,0 +1,14 @@
+D:\Projects\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Services.deps.json
+D:\Projects\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Services.dll
+D:\Projects\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Services.pdb
+D:\Projects\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Entity.dll
+D:\Projects\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Persistence.dll
+D:\Projects\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Entity.pdb
+D:\Projects\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Persistence.pdb
+D:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.csprojAssemblyReference.cache
+D:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.csproj.CoreCompileInputs.cache
+D:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.AssemblyInfoInputs.cache
+D:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.AssemblyInfo.cs
+D:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.csproj.CopyComplete
+D:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.dll
+D:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.pdb
