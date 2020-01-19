@@ -120,7 +120,6 @@ namespace BasicProject.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-
         public async Task<IActionResult> Edit(EmployeeEditViewModel model)
         {
             if(ModelState.IsValid)
@@ -165,6 +164,62 @@ namespace BasicProject.Controllers
             }
 
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            var employee = _employeeServivce.GetById(id);
+            if(employee==null)
+            {
+                return NotFound();
+            }
+            EmployeeDetailViewModel model = new EmployeeDetailViewModel()
+            {
+                Id = employee.Id,
+                EmployeeNo = employee.EmployeeNo,
+                FullName = employee.FullName,
+                Gender = employee.Gender,
+                DOB = employee.DOB,
+                DateJoined = employee.DateJoined,
+                Designation = employee.Designation,
+                NationalInsuranceNo = employee.NationalInsuranceNo,
+                PhoneNumber = employee.PhoneNumber,
+                Email = employee.Email,
+                Paymentmethod = employee.Paymentmethod,
+                StudentLoan = employee.StudentLoan,
+                Unionmember = employee.Unionmember,
+                Address = employee.Address,
+                City = employee.City,
+                ImageUrl = employee.ImageUrl,
+                Postcode = employee.Postcode
+            };
+            return View(model);
+        } 
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var employee = _employeeServivce.GetById(id);
+            if(employee == null)
+            {
+                return NotFound();
+            }
+
+            var model = new EmployeeDeleteViewModel()
+            {
+                Id = employee.Id,
+                FullName = employee.FullName
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(EmployeeDeleteViewModel model)
+        {
+            await _employeeServivce.Delete(model.Id);
+            return RedirectToAction(nameof(Index));
         }
     }
 }
