@@ -13,6 +13,8 @@ using Microsoft.EntityFrameworkCore;
 using BasicProject.Persistence;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using BasicProject.Services;
+using BasicProject.Services.Implementation;
 
 namespace BasicProject
 {
@@ -43,6 +45,7 @@ namespace BasicProject
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddScoped<IEmployeeService, EmployeeService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
