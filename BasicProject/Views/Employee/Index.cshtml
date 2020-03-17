@@ -1,4 +1,4 @@
-﻿@model IEnumerable<EmloyeeIndexViewModel>
+﻿@model EmployeeListPagination<EmloyeeIndexViewModel>
 
 @{ ViewBag.Title = "Employee";}
 
@@ -32,8 +32,9 @@
                                 @foreach (var item in Model)
                                 {
                                     <tr>
-                                        <td><a asp-action="Detail" asp-route-id="@item.Id">
-                                            @item.EmployeeNo
+                                        <td>
+                                            <a asp-action="Detail" asp-route-id="@item.Id">
+                                                @item.EmployeeNo
                                             </a>
                                         </td>
                                         <td>
@@ -43,7 +44,7 @@
                                         <td>@item.Gender</td>
                                         <td>@item.Designation</td>
                                         <td>@item.City</td>
-                                        <td>@item.DateJoined</td>
+                                        <td>@item.DateJoined.ToString("dd-MM-yyyy")</td>
                                         <td>
                                             <a class="text-primary" asp-action="Edit" asp-route-id="@item.Id">
                                                 <i class="far fa-edit"></i>Edit
@@ -58,7 +59,21 @@
                                     </tr>
                                 }
                             </tbody>
-                        </table>
+                        </table><br />
+                        @{
+                            var disablePrevious = !Model.IsPreviousPageAvailable ? "disabled" : "";
+                            var disableNext = !Model.IsNextPageAvailabe ? "disabled" : "";
+                        }
+                        <a asp-action="Index"
+                           asp-route-pageNumber="@(Model.PageIndex - 1)"
+                           class="btn btn-primary @disablePrevious">
+                            Previous
+                        </a>
+                        <a asp-action="Index"
+                           asp-route-pageNumber="@(Model.PageIndex + 1)"
+                           class="btn btn-primary @disableNext">
+                            Next
+                        </a>
                     </div>
                 </div>
             </div>

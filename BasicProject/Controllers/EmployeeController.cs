@@ -21,7 +21,7 @@ namespace BasicProject.Controllers
             _hostingEnvironment = hostingEnvironment;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int? pageNumber)
         {
             var employees = _employeeServivce.GetAll().Select(employee => new EmloyeeIndexViewModel
             {
@@ -34,7 +34,8 @@ namespace BasicProject.Controllers
                 City=employee.City,
                 DateJoined=employee.DateJoined
             }).ToList();
-            return View(employees);
+            int pageSize = 4;
+            return View(EmployeeListPagination<EmloyeeIndexViewModel>.Create(employees, pageNumber ?? 1, pageSize) );
         }
         [HttpGet]
         public IActionResult Create()

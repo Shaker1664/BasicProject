@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="RotativaCore" Version="2.2.0" />
   </ItemGroup>
 
 
@@ -17,7 +18,14 @@
     <ProjectReference Include="..\BasicProject.Entity\BasicProject.Entity.csproj" />
     <ProjectReference Include="..\BasicProject.Services\BasicProject.Services.csproj" />
   </ItemGroup>
-
+  <ItemGroup>
+    <None Update="WkHtmlToPdf\wkhtmltoimage.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="WkHtmlToPdf\wkhtmltopdf.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Data\" />

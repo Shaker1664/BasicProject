@@ -1,6 +1,5 @@
 D:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Entity.dll
 D:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.csprojAssemblyReference.cache
-D:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.csproj.CoreCompileInputs.cache
 D:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.AssemblyInfoInputs.cache
 D:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.AssemblyInfo.cs
 D:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Persistence.deps.json
@@ -12,3 +11,16 @@ D:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicP
 D:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.csproj.CopyComplete
 D:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.dll
 D:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.pdb
+G:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Persistence.deps.json
+G:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Persistence.runtimeconfig.json
+G:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Persistence.runtimeconfig.dev.json
+G:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Persistence.dll
+G:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Persistence.pdb
+G:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Entity.dll
+G:\Projects\BasicProject\BasicProject.Persistence\bin\Debug\netcoreapp2.2\BasicProject.Entity.pdb
+G:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.csprojAssemblyReference.cache
+G:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.AssemblyInfoInputs.cache
+G:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.AssemblyInfo.cs
+G:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.csproj.CopyComplete
+G:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.dll
+G:\Projects\BasicProject\BasicProject.Persistence\obj\Debug\netcoreapp2.2\BasicProject.Persistence.pdb

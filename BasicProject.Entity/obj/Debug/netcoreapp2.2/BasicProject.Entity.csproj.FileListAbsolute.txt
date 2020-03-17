@@ -2,8 +2,15 @@ D:\Projects\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProjec
 D:\Projects\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProject.Entity.dll
 D:\Projects\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProject.Entity.pdb
 D:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.csprojAssemblyReference.cache
-D:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.csproj.CoreCompileInputs.cache
 D:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.AssemblyInfoInputs.cache
 D:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.AssemblyInfo.cs
 D:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.dll
 D:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.pdb
+G:\Projects\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProject.Entity.deps.json
+G:\Projects\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProject.Entity.dll
+G:\Projects\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProject.Entity.pdb
+G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.csprojAssemblyReference.cache
+G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.AssemblyInfoInputs.cache
+G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.AssemblyInfo.cs
+G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.dll
+G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.pdb

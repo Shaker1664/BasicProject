@@ -46,6 +46,9 @@ namespace BasicProject
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<INationalInsuranceContributionService, NationalInsuranceContributionService>();
+            services.AddScoped<ITaxService, TaxService>();
+            services.AddScoped<IpayComputeService, PayComputeService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

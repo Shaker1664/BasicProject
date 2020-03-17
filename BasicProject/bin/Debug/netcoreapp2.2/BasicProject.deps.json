@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "ecbb5c3abab5d9318af816ca6a0edb101c7b8422"
+    "signature": ""
   },
   "compilationOptions": {
     "defines": [
@@ -10,7 +10,7 @@
       "NETCOREAPP",
       "NETCOREAPP2_2"
     ],
-    "languageVersion": "",
+    "languageVersion": "7.3",
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,
@@ -28,7 +28,8 @@
           "BasicProject.Services": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "RotativaCore": "2.2.0"
         },
         "runtime": {
           "BasicProject.dll": {}
@@ -123,6 +124,21 @@
         },
         "compile": {
           "lib/netstandard1.0/Remotion.Linq.dll": {}
+        }
+      },
+      "RotativaCore/2.2.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Cookies": "2.2.0",
+          "Microsoft.AspNetCore.Mvc": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/RotativaCore.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/RotativaCore.dll": {}
         }
       },
       "runtime.native.System.Data.SqlClient.sni/4.5.0": {
@@ -3387,6 +3403,13 @@
       "sha512": "sha512-fK/76UmpC0FXBlGDFVPLJHQlDLYnGC+XY3eoDgCgbtrhi0vzbXDQ3n/IYHhqSKqXQfGw/u04A1drWs7rFVkRjw==",
       "path": "remotion.linq/2.2.0",
       "hashPath": "remotion.linq.2.2.0.nupkg.sha512"
+    },
+    "RotativaCore/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OIxrnyn4Q0mmht9wj49+ECXi8JR60tuZaXdAU+2XHbP/p/d0OMi6BZahcuRqKhbd5oCvafl2fwWdzoh/wZsjtA==",
+      "path": "rotativacore/2.2.0",
+      "hashPath": "rotativacore.2.2.0.nupkg.sha512"
     },
     "runtime.native.System.Data.SqlClient.sni/4.5.0": {
       "type": "package",
