@@ -33,3 +33,18 @@ G:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProj
 G:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.csproj.CopyComplete
 G:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.dll
 G:\Projects\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.pdb
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Services.deps.json
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Services.dll
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Services.pdb
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Entity.dll
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Persistence.dll
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Entity.pdb
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\BasicProject.Persistence.pdb
+D:\Company works\BasicProject\BasicProject.Services\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\Company works\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.csprojAssemblyReference.cache
+D:\Company works\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.AssemblyInfoInputs.cache
+D:\Company works\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.AssemblyInfo.cs
+D:\Company works\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.csproj.CopyComplete
+D:\Company works\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.dll
+D:\Company works\BasicProject\BasicProject.Services\obj\Debug\netcoreapp2.2\BasicProject.Services.pdb

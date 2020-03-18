@@ -1,6 +1,7 @@
 ﻿using BasicProject.Entity;
 using BasicProject.Models;
 using BasicProject.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RotativaCore;
 using System;
@@ -10,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace BasicProject.Controllers
 {
+    [Authorize(Roles = "Admin, Manager")]
     public class PayController : Controller
     {
         private readonly IpayComputeService _payComputeService;
@@ -52,6 +54,8 @@ namespace BasicProject.Controllers
             });
             return View(payRecords);
         }
+
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             ViewBag.employees = _employeeService.GetAllEmployeesForPayroll();
@@ -59,8 +63,10 @@ namespace BasicProject.Controllers
             var model = new PaymentRecordCreateViewModel();
             return View(model);
         }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(PaymentRecordCreateViewModel model)
         {
             if(ModelState.IsValid)
@@ -134,6 +140,7 @@ namespace BasicProject.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public IActionResult PaySlip(int id)
         {
             var paymentRecord = _payComputeService.GetById(id);

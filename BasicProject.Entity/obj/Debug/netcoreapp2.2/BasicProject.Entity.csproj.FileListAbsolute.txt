@@ -14,3 +14,11 @@ G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProjec
 G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.AssemblyInfo.cs
 G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.dll
 G:\Projects\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.pdb
+D:\Company works\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProject.Entity.deps.json
+D:\Company works\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProject.Entity.dll
+D:\Company works\BasicProject\BasicProject.Entity\bin\Debug\netcoreapp2.2\BasicProject.Entity.pdb
+D:\Company works\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.csprojAssemblyReference.cache
+D:\Company works\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.AssemblyInfoInputs.cache
+D:\Company works\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.AssemblyInfo.cs
+D:\Company works\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.dll
+D:\Company works\BasicProject\BasicProject.Entity\obj\Debug\netcoreapp2.2\BasicProject.Entity.pdb
