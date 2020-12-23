@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\Shaker\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Shaker\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\Shaker\\.nuget\\packages"
     ]
   }
 }

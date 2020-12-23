@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Company works\\BasicProject\\BasicProject.Services\\BasicProject.Services.csproj": {}
+    "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Services\\BasicProject.Services.csproj": {}
   },
   "projects": {
-    "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {
+    "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj",
         "projectName": "BasicProject.Entity",
-        "projectPath": "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj",
+        "projectPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj",
         "packagesPath": "C:\\Users\\Shaker\\.nuget\\packages\\",
-        "outputPath": "D:\\Company works\\BasicProject\\BasicProject.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Shaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -58,22 +55,19 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Company works\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj": {
+    "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company works\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj",
         "projectName": "BasicProject.Persistence",
-        "projectPath": "D:\\Company works\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj",
+        "projectPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj",
         "packagesPath": "C:\\Users\\Shaker\\.nuget\\packages\\",
-        "outputPath": "D:\\Company works\\BasicProject\\BasicProject.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Shaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -88,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {
-                "projectPath": "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj"
+              "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {
+                "projectPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj"
               }
             }
           }
@@ -134,22 +128,19 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Company works\\BasicProject\\BasicProject.Services\\BasicProject.Services.csproj": {
+    "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Services\\BasicProject.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company works\\BasicProject\\BasicProject.Services\\BasicProject.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Services\\BasicProject.Services.csproj",
         "projectName": "BasicProject.Services",
-        "projectPath": "D:\\Company works\\BasicProject\\BasicProject.Services\\BasicProject.Services.csproj",
+        "projectPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Services\\BasicProject.Services.csproj",
         "packagesPath": "C:\\Users\\Shaker\\.nuget\\packages\\",
-        "outputPath": "D:\\Company works\\BasicProject\\BasicProject.Services\\obj\\",
+        "outputPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Shaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -164,11 +155,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {
-                "projectPath": "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj"
+              "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {
+                "projectPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj"
               },
-              "D:\\Company works\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj": {
-                "projectPath": "D:\\Company works\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj"
+              "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Persistence\\BasicProject.Persistence.csproj"
               }
             }
           }
@@ -199,7 +190,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

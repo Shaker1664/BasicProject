@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {}
+    "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {}
   },
   "projects": {
-    "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {
+    "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj",
         "projectName": "BasicProject.Entity",
-        "projectPath": "D:\\Company works\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj",
+        "projectPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\BasicProject.Entity.csproj",
         "packagesPath": "C:\\Users\\Shaker\\.nuget\\packages\\",
-        "outputPath": "D:\\Company works\\BasicProject\\BasicProject.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Shaker\\Desktop\\Temp_BackUp\\BasicProject\\BasicProject\\BasicProject.Entity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Shaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -58,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
